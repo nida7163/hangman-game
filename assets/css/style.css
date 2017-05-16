@@ -1,0 +1,13 @@
+body {
+	background-image: url(http://www.philipsarena.com/assets/img/atlanta-hawks-background-2658c0cea0.png);
+	font-family: 'Titillium Web', sans-serif;
+}
+
+
+.jumbotron {
+	opacity: 0.8;
+}
+
+.panel {
+	opacity: 0.8;
+}
